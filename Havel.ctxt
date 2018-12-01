@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Havel()
+comment1.params=s
+comment1.target=void\ inputData(java.lang.String)
+comment2.params=arrList
+comment2.target=java.util.ArrayList\ calc(java.util.ArrayList)
+comment3.params=arrList
+comment3.target=boolean\ checkInitial(java.util.ArrayList)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
